@@ -1,5 +1,5 @@
 Oldal készítője : Sasvári Bálint
-Github link:
+Github link: https://github.com/meglehetosen/HondaCivicTypeR
 
 Rövid leírás:
 	A weboldalam a Honda Civic Type-R-t hivatott bemutatni.
